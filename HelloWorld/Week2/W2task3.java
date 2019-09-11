@@ -3,7 +3,6 @@ import java.util.Random;
 import java.util.Scanner;
 public class W2task3 {
 	 public static void main(String[] args) {
-		final double PI = 3.1416;
 		Scanner input = new Scanner(System.in);
 		System.out.print("Width = ");
 		double width = input.nextFloat();
